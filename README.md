@@ -1,2 +1,3 @@
 # ruby-AhoCorasick-Tree
-String Search based on AhoCorasick-Tree algorithm
+
+Aho-Corasickの文字列探索アルゴリズムのRuby実装です。
